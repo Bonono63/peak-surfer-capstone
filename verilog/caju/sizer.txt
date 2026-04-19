@@ -1,0 +1,199 @@
+**** module/scope: topmodule
+     Flip-Flops   : 0
+     Logic Gates  : 0
+**** module/scope: topmodule.dut
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[1]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[1].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[1].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[1].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[1].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.gen_caju_rounds[2]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[2].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[2].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[2].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[2].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.gen_caju_rounds[3]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[3].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[3].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[3].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[3].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.gen_caju_rounds[4]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[4].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[4].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[4].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[4].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.gen_caju_rounds[5]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[5].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[5].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[5].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[5].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.gen_caju_rounds[6]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[6].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[6].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[6].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[6].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.gen_caju_rounds[7]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[7].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[7].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[7].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[7].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.gen_caju_rounds[8]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[8].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[8].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[8].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[8].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.gen_caju_rounds[9]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[9].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[9].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[9].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[9].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.gen_caju_rounds[10]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[10].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[10].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[10].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[10].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.gen_caju_rounds[11]
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[27]: 1 unaccounted
+**** module/scope: topmodule.dut.gen_caju_rounds[11].rx
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[11].rx.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.gen_caju_rounds[11].rx.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.gen_caju_rounds[11].rx.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** module/scope: topmodule.dut.r0
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.r0.linmap
+     Flip-Flops   : 0
+     Logic Gates  : 32
+**** module/scope: topmodule.dut.r0.subbox
+     Flip-Flops   : 0
+     Logic Gates  : 64
+**** module/scope: topmodule.dut.r0.upkey
+     Flip-Flops   : 0
+     Logic Gates  : 96
+**** TOTALS
+     Flip-Flops   : 0
+     Logic Gates  : 3104
+     LPM[27]: 11 unaccounted
+
